@@ -1,0 +1,49 @@
+
+Alexandre Baillargeon
+MAE 4353 HW #4
+February 9th, 2012
+
+
+
+
+Results
+
+Problem 8.42
+
+C:\Users\Al\Dropbox\MAE_4353_Code>python 8_42.py
+>>> Note: Initial values from the problem statement fulfilled the requirements.
+>>> Grade: 1/2"-13 SAE 5 , 10 bolts
+>>> Bolt spacing ratio: 3.76991118431
+>>> Joint constant: 0.300156443382
+>>> Yielding factor of safety: 1.26374148096
+
+------------
+
+Problem 8.46
+
+C:\Users\Al\Dropbox\MAE_4353_Code>python 8_46.py
+>>> a. 823.4784 N m
+>>> b. Overload factor of safety: 17.7007637632
+>>> Yielding factor of safety: 1.10417996035
+>>> Joint separation factor of safety: 57.7034593046
+
+------------
+
+Problem 8.60
+
+C:\Users\Al\Dropbox\MAE_4353_Code>python 8_60.py
+>>> a. Yielding factor of safety: 1.1627540964
+>>> b. Overload factor of safety: 2.9574467855
+>>> c. Joint separation factor of safety: 6.6973105074
+>>> d. Goodman fatigue factor of safety: 4.56656546724
+
+------------
+
+Problem 8.64
+
+C:\Users\Al\Dropbox\MAE_4353_Code>python 8_64.py
+>>> a. Bolt stiffness: 239.774027856 ksi
+>>> Member stiffness: 2147.57310304 ksi
+>>> b. Gerber factor of safety: 4.17089112288
+>>> c. Joint separation pressure: 2622.3514382 psi
+

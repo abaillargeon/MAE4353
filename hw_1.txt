@@ -1,0 +1,39 @@
+
+Alexandre Baillargeon
+MAE 4353 HW #1
+January 19th, 2012
+
+
+
+
+Results
+
+Problem 4.108
+
+C:\Users\Al\Dropbox\MAE_4353_Code>python 4_108.py
+>>> a. 1.19311570555 inches
+>>> b. 0.727798814963 inches
+>>> c. 3.01196423373, 2.70505553086
+
+Preferred Sizes:
+a. 1.25in
+b. 0.75in
+
+------------
+
+Problem 4.109
+C:\Users\Al\Dropbox\MAE_4353_Code>python 4_109.py
+>>> size: 5.54455478903mm
+>>> safety factor: 4.43528730533
+
+Preferred Sizes:
+a. 6mm
+
+------------
+
+Problem 6.29
+C:\Users\Al\Dropbox\MAE_4353_Code>python 6_29.py
+>>> Min latching force: 48.2798833819 N
+>>> Max latching force: 144.839650146 N
+
+Plot attached: the latch stresses fall inside the gerber curve, so it does not fail

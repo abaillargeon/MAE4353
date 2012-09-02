@@ -1,0 +1,37 @@
+
+Alexandre Baillargeon
+MAE 4353 HW #9
+April 5th, 2012
+
+
+
+
+Results
+
+Example Problem
+
+C:\Users\Al\Dropbox\MAE_4353_Code>bearing_calc.exe
+Enter C0:
+>>>40.5
+Catalog Load: 83.296211
+
+Enter C0:
+>>>62
+Catalog Load: 88.655258
+
+---------------------
+
+Mystery Problem
+
+C:\Users\Al\Dropbox\MAE_4353_Code>bearing_calc.exe
+Enter C0:
+>>>40.5
+Catalog Load: 82.738754
+
+Enter C0:
+>>>53
+Catalog Load: 85.138176
+
+Enter C0:
+>>>62
+Catalog Load: 86.266670

@@ -1,0 +1,35 @@
+
+Alexandre Baillargeon
+MAE 4353 HW #3
+February 2nd, 2012
+
+
+
+
+Results
+
+Problem 8.14
+
+C:\Users\Al\Dropbox\MAE_4353_Code>python 8_14.py
+>>> a. 3.5 in
+>>> b. 1778.6516306 ksi
+>>> c. 7678.38261702 ksi
+
+------------
+
+Problem 8.19
+
+C:\Users\Al\Dropbox\MAE_4353_Code>python 8_19.py
+>>> a. 60.0 mm
+>>> b. 289.115073756 MPa
+>>> c. 703.712815475 MPa
+
+------------
+
+Problem 8.21
+
+C:\Users\Al\Dropbox\MAE_4353_Code>python 8_21.py
+>>> a. 55.0 mm
+>>> b. 320.879719156 MPa
+>>> c. 761.444859762 MPa
+
